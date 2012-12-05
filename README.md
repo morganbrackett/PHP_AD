@@ -1,6 +1,6 @@
 PHP_AD
 ======
 
-######A PHP Active Directory authentication library using LDAP against the Global Catalog
+######An Active Directory authentication library using LDAP against the Global Catalog in PHP
 
 (coming soon...)
